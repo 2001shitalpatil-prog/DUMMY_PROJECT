@@ -8,5 +8,6 @@ public class demo1 {
 	public void mangoTest()
 	{
 		System.out.println("mango");
+		System.out.println("apple");
 	}
 }
